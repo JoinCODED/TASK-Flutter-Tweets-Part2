@@ -13,3 +13,6 @@ Create a stateless widget called Tweet with the following parameters:
   - time (required)
   - footer (required)
   - footerColor
+  - likes  (default: 0)
+  - retweets  (default: 0)
+  - comments (default: 0)
